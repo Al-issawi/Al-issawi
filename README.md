@@ -43,9 +43,8 @@
 <br>
 
 ## :sweat_smile: My flaws
-- 🤯 Sometimes I find it hard to take a break.
-- 🙂 Don't try to understand me.
-- :innocent: Sorry, what was your name?
+- 🤯 Starting new projects with boundless enthusiasm, occasionally forgetting that sleep is a necessity.
+- :innocent:Expert level in having a million browser tabs open, each representing a different unfinished project
 
 <br>
 
