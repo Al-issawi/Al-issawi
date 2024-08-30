@@ -38,20 +38,11 @@
   
 ## My strengths
 - I try to **learn** something new every day.
-- Eye On Details
+- Eye On Details.
 
 
 <br>
 
-## :sweat_smile: My flaws
-- 🤯 Starting new projects with boundless enthusiasm, occasionally forgetting that sleep is a necessity.
-- :innocent:Expert level in having a million browser tabs open, each representing a different unfinished project
+## My GitHub Stats
 
-<br>
-
-
-## 🤔 Other interesting facts from my github
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al-issawi&show_icons=true&locale=en&layout=compact" alt="Al-issawi" /></p><br><br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Al-issawi&show_icons=true&locale=en" alt="Al-issawi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al-issawi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p><br><br> <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Al-issawi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
