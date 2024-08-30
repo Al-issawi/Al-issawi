@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Mohammed Alisawi</h1>
-<h3 align="center">A Junior fulstack web Application developer (Spain)</h3>
-
+<h3 align="center"> Software Application developer (Spain)</h3>
+<p align="center">I am a committed Software Developer who is keen to develop and improve his skills through hands-on learning and project-based work. I am punctual, pay close attention to detail, and work well both independently and as part of a team. I am committed to writing clean, high quality code and ensuring excellence at every stage of development.
+ </p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -35,9 +36,9 @@
 <br>
 <br>
   
-## :muscle: My strengths
-- :question: I try to **learn** something new every day.
-- 👥 “try to leave this world a little better than you found it”
+## My strengths
+- I try to **learn** something new every day.
+- Eye On Details
 
 
 <br>
