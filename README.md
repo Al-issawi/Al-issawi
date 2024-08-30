@@ -11,7 +11,7 @@
 </p><br>
 
 
-## ⚡ Technologies
+##  Technologies
 
 ### 💻 Languages
 
@@ -28,13 +28,13 @@
 | <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Angular" alt="Angular" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314"> |
  |------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 
-### :wrench: Tools
+### :wrench: IDE & Tools
 
 | <img title="IntelliJ" alt="IntelliJ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"> | <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | 
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
-<br>
+
   
 ## My strengths
 - I try to **learn** something new every day.
