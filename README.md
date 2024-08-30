@@ -13,7 +13,7 @@
 
 ## ⚡ Technologies
 
-### :speech_balloon: Languages
+### 💻 Languages
 
 | <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
