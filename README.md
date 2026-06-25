@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Mohammed Alisawi</h1>
 <h3 align="center"> Software Application developer </h3> 
 
-<p align="center">I am a committed Software Developer who is keen to develop and improve his skills through hands-on learning and project-based work. I am punctual, pay close attention to detail, and work well both independently and as part of a team. I am committed to writing clean, high quality code and ensuring excellence at every stage of development.
+<p align="center">I am an aspiring Software Developer passionate about learning and improving my skills through hands-on projects and real-world experience. I pay close attention to detail, enjoy solving problems, and work effectively both independently and as part of a team. I am committed to writing clean, high-quality code and continuously expanding my technical knowledge.
+
  </p>
 <br>
 
@@ -27,9 +28,9 @@
 
 <br>
 
-### 🖼️ Frameworks & libraries
+### 🖼️ Frameworks & Libraries
 
-<img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png">  
+<img title="Spring" alt="Spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png">  
 
 <br>
 
