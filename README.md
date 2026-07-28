@@ -1,53 +1,32 @@
-<h1 align="center">Hi 👋🏻, I'm Mohammed Alisawi</h1>
-<h3 align="center"> Software Application developer </h3> 
-
-<p align="center">I am an aspiring Software Developer passionate about learning and improving my skills through hands-on projects and real-world experience. I pay close attention to detail, enjoy solving problems, and work effectively both independently and as part of a team. I am committed to writing clean, high-quality code and continuously expanding my technical knowledge.
-
- </p>
-<br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/mohammed-alisawi-aloroza-8716b867" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-alisawi-aloroza-8716b867 /" height="40" width="50" /></a>
-
-</p><br>
-
-##  Technologies
+## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
-| <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-<br>
+### 🗄️ Databases
 
-### :floppy_disk: Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
- | <img title="MySQL" alt="MySQL" width="55px" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------- 
+### 🌱 Frameworks & Libraries
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</p>
 
-### 🖼️ Frameworks & Libraries
+### 🔧 IDEs & Tools
 
-<img title="Spring" alt="Spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png">  
-
-<br>
-
-### :wrench: IDE & Tools
-
-| <img title="IntelliJ" alt="IntelliJ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"> | <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | 
-| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-
-<br>
-
-##  My strengths
-
-- I try to **learn** something new every day.
-- Eye On Details.
-<br>
-<br>
-
-## My GitHub Stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al-issawi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p><br><br> <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Al-issawi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
