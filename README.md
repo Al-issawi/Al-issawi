@@ -73,11 +73,11 @@
 
 ## 🚀 Featured Projects
 
-### ☕ Java Exercises & Practice
+### ☕ Exercises & Practice 
 
-A collection of Java exercises and practical projects focused on strengthening core programming concepts, object-oriented programming, data structures, collections, algorithms, and problem-solving skills.
+A collection of exercises and practical projects focused on strengthening core programming concepts, object-oriented programming, data structures, collections, algorithms,MVC,JPA,React,Springboot, and problem-solving skills.
 
-🔗 **Repository:** [Exersices-Java](https://github.com/Al-issawi/Exersices-Java) - [Srping-boot](https://github.com/Al-issawi/Java-SpringBoot-projectFamiliaPlus--main.git) , [fullStack-react,Spring-boot](https://github.com/Al-issawi/TODOFULLSTACK-Spring-boot_React.git) [Tourist-Trapp] (https://github.com/Al-issawi/BackEndTouristTrapp.git)
+🔗 **Repository:** [Exersices-Java](https://github.com/Al-issawi/Exersices-Java) - [Srping-boot](https://github.com/Al-issawi/Java-SpringBoot-projectFamiliaPlus--main.git) , [fullStack-react,Spring-boot](https://github.com/Al-issawi/TODOFULLSTACK-Spring-boot_React.git) [Tourist-Trapp](https://github.com/Al-issawi/BackEndTouristTrapp.git)
 
 ---
 
