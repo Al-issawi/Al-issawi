@@ -106,7 +106,6 @@ A collection of web development projects created to practice and improve fronten
 - CSS3
 - JavaScript
 - React
-
 <br>
 
 ## 💪 My Strengths
@@ -117,21 +116,17 @@ A collection of web development projects created to practice and improve fronten
 - 💻 Passion for writing clean and maintainable code.
 - 🤝 Ability to work independently and as part of a team.
 - 🚀 Motivated to learn new technologies and take on new challenges.
-
 <br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-issawi&layout=compact&theme=default" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-issawi&layout=compact&theme=default" 
+    alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Al-issawi&show_icons=true&theme=default" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Al-issawi&show_icons=true&theme=default" 
     alt="GitHub Stats"
   />
 </p>
